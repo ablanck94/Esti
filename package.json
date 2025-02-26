@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/ablanck94/esti/issues"
   },
-  "homepage": "https://github.com/ablanck94/esti#readme"
+  "homepage": "https://github.com/ablanck94/esti#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
